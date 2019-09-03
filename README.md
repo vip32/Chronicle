@@ -1,4 +1,4 @@
-Chronicle is simple **process manager/saga pattern** implementation for .NET Core that helps you manage long-living and disitrbuted transactions.
+Chronicle is simple **process manager/saga pattern** implementation for .NET Core that helps you manage long-living and distributed transactions.
 
 |   | master  | develop  |
 |---|--------|----------|
